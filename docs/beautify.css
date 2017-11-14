@@ -1,0 +1,35 @@
+
+body{
+    min-width:1000px;
+}
+
+.typewriter{
+	padding:155px 60px;
+	vertical-align: bottom;
+    height: 70vh;
+}
+
+.print{
+	text-align: center;
+    width:70vw;
+    margin-right:auto;
+    margin-left: 12vw;
+}
+.print h2{
+
+	display: inline;
+    font-size:8vw;
+}
+
+.transparent{
+	opacity: 0;
+}
+
+.toggle p{
+    float: right;
+    padding-right: 50px;
+    font-style: italic;
+    font-size:1.6vw;
+    color:#AFAFAF;
+}
+
