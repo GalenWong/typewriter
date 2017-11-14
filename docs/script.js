@@ -1,4 +1,4 @@
-wvar stop=false;
+var stop=false;
 
 var typerID=0;
 var reduceID=0;
